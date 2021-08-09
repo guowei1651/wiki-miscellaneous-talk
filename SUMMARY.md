@@ -7,10 +7,5 @@
 
 ## 第一章
 
-* [约定](di-yi-zhang/yue-ding.md)
 * [活着还是生活？](di-yi-zhang/huo-zhe-hai-shi-sheng-huo.md)
-
----
-
-* [Untitled](untitled.md)
 
