@@ -9,3 +9,11 @@
 
 * [活着还是生活？](di-yi-zhang/huo-zhe-hai-shi-sheng-huo.md)
 
+## 第二章
+
+* [UVCA时代人最重要的能力：思维工具的构建能力](di-er-zhang/uvca-shi-dai-ren-zui-zhong-yao-de-neng-li-si-wei-gong-ju-de-gou-jian-neng-li.md)
+
+## 第三章
+
+* [年轻人们远离华为吧](di-san-zhang/nian-qing-ren-yuan-li-hua-wei-ba.md)
+
