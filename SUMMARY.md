@@ -19,5 +19,5 @@
 
 ---
 
-* [对软件认知层次的思考](cong-di-dao-gao-shuo-ruan-jian.md)
+* [对软件认知层次的思考](reflections-on-the-cognitive-level-of-software.md)
 
